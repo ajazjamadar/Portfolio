@@ -1,7 +1,5 @@
 # MD EJAZUDDIN JAMADAR's Professional Portfolio
 
-# MD EJAZUDDIN JAMADAR's Professional Portfolio
-
 A modern, responsive portfolio website showcasing my skills as a **Data Analyst and Full Stack Developer**. Built with React.js and featuring smooth animations, dark/light mode toggle, and a clean, professional design.
 
 ## 🚀 Features
